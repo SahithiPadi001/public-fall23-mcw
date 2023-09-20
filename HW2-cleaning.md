@@ -1,6 +1,6 @@
 # Homework 2: Data Cleaning
 
-**Due:** Wednesday, September 20, 2023 by 11:59pm  
+**Due:** Wednesday, September 20, 2023 by 11:59pm
 
 The goal of this week's assignment is to gain experience using OpenRefine for data cleaning.  
 
